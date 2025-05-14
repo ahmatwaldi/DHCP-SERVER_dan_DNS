@@ -58,7 +58,9 @@ Pastikan mendapat IP otomatis
 
 Lakukan ping ke belajar.local untuk uji DNS
 
+
 ✅ Output yang Diharapkan
+
 Semua PC berhasil mendapatkan IP dari DHCP
 
 PC dapat mengakses server menggunakan nama domain (DNS resolve sukses)
